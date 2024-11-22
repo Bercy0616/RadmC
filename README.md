@@ -8,8 +8,8 @@ Rapid identification of lung cancer from indeterminate pulmonary lesions (IPLs) 
 
 
 ## News
-- [x] 2024.11.22: Code, Models, and Sample data have been released.
-- [x] 2024.2.1: Code, Models, and Sample will be released. Stay tuned.
+- [o] 2024.11.22: Code, Models, and Sample data have been released.
+- [o] 2024.2.1: Code, Models, and Sample will be released. Stay tuned.
 
 We will continue to optimize the code to improve readability.
 
