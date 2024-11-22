@@ -1,4 +1,6 @@
-Integrated multiomics signatures to optimize the accurate diagnosis of lung cancer
+<div align="center">
+  Integrated multiomics signatures to optimize the accurate diagnosis of lung cancer
+<di/v>
 ===================================================================================
 
 Authors:  
