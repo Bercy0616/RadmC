@@ -1,7 +1,9 @@
 Integrated multiomics signatures to optimize the accurate diagnosis of lung cancer  
 ===================================================================================
 
-([https://github.com/Bercy0616/RadmC/blob/main/fig/flow1.png](https://github.com/Bercy0616/RadmC/blob/main/fig/flow1.png))  
+<div align="center">
+  <img src="https://github.com/Bercy0616/RadmC/blob/main/fig/flow1.png">
+</div>
 
 
 ## Abstract
