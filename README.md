@@ -26,7 +26,7 @@ python3 train.py
 python3 test.py 
 ```
 
-Recently, we will package our environment as environment.yml. It will be easier for you to run all the code.
+Recently, we will package our environment as **environment.yml** . It will be easier for you to run all the code.
 
 ## Acknowledgement
 We would like to thank the MultiomIcs classifier for pulmOnary Nodules (MISSION) Collaborative Group for their supports and efforts.   
