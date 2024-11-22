@@ -1,5 +1,5 @@
-# multiomics
-February 1st  
+Integrated multiomics signatures to optimize the accurate diagnosis of lung cancer
+===================================================================================
 
 Authors:  
 Mengmeng Zhao1*, Gang Xue2*, Bingxi He3,4,5*, Jiajun Deng1, Tingting Wang6, Yifan Zhong1, Shenghui Li1, Yang Wang1, Yiming He1, Tao Chen1, Jun Zhang7, Ziyue Yan7, Xinlei Hu2, Liuning Guo8, Wendong Qu8, Yongxiang Song8, Minglei Yang9, Guofang Zhao9, Bentong Yu10, Minjie Ma11, Lunxu Liu12, Yunlang She1#, Dan Xie2#, Deping Zhao1#, Chang Chen1#
