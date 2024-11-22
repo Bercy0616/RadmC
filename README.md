@@ -25,7 +25,18 @@ We will continue to optimize the code to improve readability.
 
 ## Performance
 
+<div align="center">
+  <img src="https://github.com/Bercy0616/RadmC/blob/main/fig/result1.png">
+</div>
 
+
+<div align="center">
+  <img src="https://github.com/Bercy0616/RadmC/blob/main/fig/result2.png">
+</div>    
+
+<div align="center">
+  <img src="https://github.com/Bercy0616/RadmC/blob/main/fig/result3.png">
+</div>    
 
 ## Usage
 You can download our sample data from [Baidu Disk](https://pan.baidu.com/s/1ZpjHTxwp17uLfldlhn3pqw) (code: miso) 
