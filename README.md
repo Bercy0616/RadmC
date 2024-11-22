@@ -14,15 +14,14 @@ Rapid identification of lung cancer from indeterminate pulmonary lesions (IPLs) 
 We will continue to optimize the code to improve readability.
 
 
-## Result
+## Performance
 
-
-## Abstract
 
 
 ## Usage
 
 
-## Abstract
-
-  【The modeling code used in the study will be continuously optimized to improve readability】
+## Acknowledgement
+We would like to thank the MultiomIcs classifier for pulmOnary Nodules (MISSION) Collaborative Group for their supports and efforts.   
+We are also grateful to the clinical research coordinators, Xiaomin Zhu and Chong Zhu, who helped to collect the plasma samples.   
+Then, we thank all of the participants, without whom this research would not have been possible. 
